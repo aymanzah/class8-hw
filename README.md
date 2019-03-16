@@ -13,4 +13,4 @@ Tasks performed:
 - plot scatter (in ./scatter_fig)
 - plot corrolation (in ./corr_fig)
 - plot multiple features (in ./mult_fig)
-- plot and check performance prediction using Regression/Gradient Boosting Regressor (in ./pred_fig)
+- plot and check price prediction performance using Regression/Gradient Boosting Regressor (in ./pred_fig)
