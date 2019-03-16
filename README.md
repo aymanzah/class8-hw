@@ -14,4 +14,3 @@ Tasks performed:
 - plot corrolation (in ./corr_fig)
 - plot multiple features (in ./mult_fig)
 - plot and check performance prediction using Regression/Gradient Boosting Regressor (in ./pred_fig)
-
