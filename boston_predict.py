@@ -222,7 +222,7 @@ def predict_price():
  plt.title('Boston prices Expected/Predicted')
 
  print ("Creating prediction figure based on LSTAT and RM in {} dir".format(pred_dir_path))
- plt.savefig('{}predict_LSTAT_RM.png'.format(pred_dir_path))
+ plt.savefig('{}predict_price_LSTAT_RM_based.png'.format(pred_dir_path))
  plt.show()
 
 
@@ -245,7 +245,7 @@ def predict_price():
  plt.title('Boston prices Expected/Predicted')
 
  print ("Creating prediction figure based on boston data in {} dir".format(pred_dir_path))
- plt.savefig('{}predict_all_data.png'.format(pred_dir_path))
+ plt.savefig('{}predict_price.png'.format(pred_dir_path))
  plt.show()
 
 
@@ -265,7 +265,7 @@ def predict_price():
  plt.title('Boston prices Expected/Predicted')
 
  print ("Creating GBR prediction in {} dir".format(pred_dir_path))
- plt.savefig('{}GBR.png'.format(pred_dir_path))
+ plt.savefig('{}GardBR.png'.format(pred_dir_path))
  plt.show()
 
 plot_histogram()
