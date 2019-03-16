@@ -4,6 +4,7 @@ Class 8 homework
 The script can be run through:
 
 docker build -t <image_name> ./
+
 docker run -ti <image_name>
 
 Tasks performed:
